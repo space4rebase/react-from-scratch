@@ -12,7 +12,7 @@ npm i
 To start the project:
 
 ```
-webpack-dev-server --mode development
+npm run start
 ```
 
 The project path: http://localhost:3000/
